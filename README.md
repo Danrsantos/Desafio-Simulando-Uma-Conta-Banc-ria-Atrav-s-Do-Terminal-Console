@@ -39,4 +39,3 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-## Como proposto criei a aplicação e tomei a libedade de inserir um "Menu" e a opção de imprimir os dados cadastrados no terminal.
